@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anabaccaratrecruiter
 - 👀 I’m interested in recruiting developers
 - 🌱 I’m currently learning about programming logic and basic programming
-- 💞️ I’m looking to collaborate on vacancy forums for various profiles
+- 💞️ I’m looking to collaborate o nvacancy forums for various developer profiles
 - 📫 How to reach me: instagram @annabaccarat.carreiras Linkedin: Ana Paula Baccarat
 
 <!---
